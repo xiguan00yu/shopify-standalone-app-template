@@ -1,3 +1,9 @@
+# Changelog
+1. Created by `npm init @shopify/app@latest`
+2. remove @shopify/app-bridge-*
+3. reserved @shopify/cli, vite, ...
+4. [click *Disable* in embed your app in Shopify admin section](https://community.shopify.com/c/shopify-apis-and-sdks/how-to-create-a-non-embedded-standalone-shopify-app/td-p/1315663#lineardisplaymessageviewwrapper_6)
+
 # Shopify App Template - Node
 
 This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) using Node and React. It contains the basics for building a Shopify app.
